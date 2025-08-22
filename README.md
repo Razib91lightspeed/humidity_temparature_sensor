@@ -5,11 +5,11 @@ This project uses an **Arduino**, **DHT11 sensor**, and an **I2C LCD (20x4)** to
 ---
 
 ## 📂 Project Structure
-src/               # Main source code (.ino, .cpp, .h)
-lib/               # Custom libraries (if any)
-docs/              # Documentation, notes, or schematics
-.gitignore         # Ignore rules for macOS + Arduino builds
-README.md          # Project overview
+- src/               # Main source code (.ino, .cpp, .h)
+- lib/               # Custom libraries (if any)
+- docs/              # Documentation, notes, or schematics
+- .gitignore         # Ignore rules for macOS + Arduino builds
+- README.md          # Project overview
 
 ---
 

@@ -44,6 +44,8 @@ This project uses an **Arduino**, **DHT11 sensor**, and an **I2C LCD (20x4)** to
 - The LCD screen shows current humidity and temperature.
 - The LED blinks each time a new reading is taken.
 - The Serial Monitor logs detailed debug info.
+![Project Photo 1](pic1.jpeg)
+![Project Photo 2](pic2.jpeg)
 
 # 🛠️ Notes
 - Change DHTTYPE in code to DHT22 if you use that sensor.

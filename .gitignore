@@ -1,0 +1,47 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# Arduino IDE build files
+*.hex
+*.elf
+*.bin
+*.eep
+*.d
+*.o
+*.dSYM/
+
+# PlatformIO (if used)
+.pio/
+.pioenvs/
+.piolibdeps/
+.pioenvs
+.piolibdeps
+.clang_complete
+.gcc-flags.json
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Xcode
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata/
+
+# Logs
+*.log
+
+# Backup files
+*~
+*.swp
+*.swo
+*.tmp
+
+# Node (if you use Arduino with web tooling)
+node_modules/
